@@ -1,0 +1,111 @@
+
+@media (max-width: 575.98px) { 
+    .banner-text h1 {
+        font-size: 60px !important;
+    }
+    .banner-btn a{
+        display: block;
+        margin: 20px auto;
+        }
+        .title-text h1{
+            font-size: 36px;
+        }
+        .feature-title{
+            flex-basis: 100%;
+        }
+        .feature-img{
+            flex-basis: 100%;
+        }
+
+        .feature-text p{
+            padding: 0 12px;
+            text-align: justify;
+            font-size: 14px;
+        }
+        .feature-img img{
+            width: 100%;
+        }
+        .service-item{
+            flex-basis: 100%;
+            margin-bottom: 30px;
+        }
+        .service-content p{
+            font-size: 12px;
+        }
+        hr{
+        margin: 5px auto;
+        }
+        .testimonial-item{
+        flex-basis: 100%;
+        }
+        .footer-left, .footer-right{
+            flex-basis: 100%;
+            font-size: 12px;
+            }
+        .footer-img{
+        top: 25%;
+        }
+        .footer-content p{
+            font-size: 11px;
+            font-weight: 300;
+            line-height: 20px;
+            }
+
+}
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .banner-text h1 {
+        font-size: 72px !important;
+    }
+    .banner-btn a{
+        display: block;
+        margin: 20px auto;
+        }
+        .title-text h1{
+            font-size: 32px;
+        }
+        .feature-title{
+            flex-basis: 100%;
+        }
+        .feature-img{
+            flex-basis: 100%;
+        }
+
+        .feature-text p{
+            padding: 0 12px;
+            text-align: justify;
+            font-size: 15px;
+        }
+        .feature-img img{
+            width: 100%;
+        }
+        .service-item{
+            flex-basis: 100%;
+            margin-bottom: 30px;
+        }
+        .service-content p{
+            font-size: 12px;
+        }
+        hr{
+        margin: 5px auto;
+        }
+        .testimonial-item{
+                flex-basis: 100%;
+        }
+        .footer-left, .footer-right{
+        flex-basis: 100%;
+        font-size: 14px;
+        }
+        .footer-img{
+            top: 25%;
+        }
+        .footer-content p{
+            font-size: 11px;
+            font-weight: 300;
+            line-height: 20px;
+            }
+}
